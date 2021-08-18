@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoblair.Common", "todoblair.Common\todoblair.Common.csproj", "{D2B78ADC-0DF3-4133-AB5F-2F01AD9B0963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoblair.Common", "todoblair.Common\todoblair.Common.csproj", "{D2B78ADC-0DF3-4133-AB5F-2F01AD9B0963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoblair.Functions", "todoblair.Functions\todoblair.Functions.csproj", "{684C062A-A71A-4A1C-BB33-0C0723FC1A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoblair.Functions", "todoblair.Functions\todoblair.Functions.csproj", "{684C062A-A71A-4A1C-BB33-0C0723FC1A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoblair.Test", "todoblair.Tests\todoblair.Test.csproj", "{21C1A968-C8BC-472B-81F9-A5265A4ED3FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoblair.Tests", "todoblair.Tests\todoblair.Tests.csproj", "{21C1A968-C8BC-472B-81F9-A5265A4ED3FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
